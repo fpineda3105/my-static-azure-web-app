@@ -18,7 +18,8 @@ module.exports = {
         trailingComma: 'es5',
         singleQuote: true,
         printWidth: 80,
-      },
+        "endOfLine":"auto"
+      }
     ],
     'vue/no-unused-components': [
       'error',
